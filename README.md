@@ -9,7 +9,6 @@ Este é um projeto proposto pela Alura, como desafio para aplicação do conteú
 </ul>
 <h2>Telas</h2>
 <br>
-![conversormoeda_principal](https://github.com/user-attachments/assets/343ac99f-9443-45f5-8fcb-dba55fe3ff55)
-<br>
-![conversormoeda2_conversao](https://github.com/user-attachments/assets/c75a3430-42af-4bf5-aee7-686ca7fed856)
+![conversormoeda_principal](https://github.com/user-attachments/assets/925dd9eb-f537-454d-b389-7acbf3407f5d)
+![conversormoeda2_conversao](https://github.com/user-attachments/assets/63db2c81-0b2a-4598-becd-2fd0633ba03e)
 
