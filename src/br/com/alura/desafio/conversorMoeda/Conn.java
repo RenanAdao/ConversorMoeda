@@ -14,7 +14,7 @@ public class Conn {
     public Conn() {
     }
     Double resquest(String moeda1, String moeda2) throws IOException, InterruptedException {
-        String busca = "https://v6.exchangerate-api.com/v6/7aa81791c5c353e67a1b5de0/latest/" + moeda1;
+        String busca = "https://v6.exchangerate-api.com/v6/YOUR_API_KEY_HERE/latest/" + moeda1;
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(busca))
