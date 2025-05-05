@@ -1,3 +1,5 @@
+package br.com.alura.desafio.conversorMoeda;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
